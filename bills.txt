@@ -1,0 +1,5 @@
+B001|P001|Kitty|Consultation|Billed: RM50|Paid: RM50|Insurance Claim Status: Paid
+B002|P003|Gussion|Chemotheraphy|Billed: RM80|Paid: RM70|Insurance Claim Status: Pending
+B003|P004|Lunox|X-Ray|Billed: RM50|Paid: RM20|Insurance Claim Status: Paid
+B004|P002|Fred|Consultation|Billed: RM60|Paid: RM60|Insurance Claim Status: Pending
+B005|P005|Kagura|Eye Test|Billed:  RM20|Paid: RM20|Insurance Claim Status: Paid

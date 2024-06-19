@@ -1,0 +1,5 @@
+A001|P001|2024-03-05|Dr.Philip|Cancelled
+A002|P002|2024-01-05|Dr.Smith|Available
+A003|P003|2024-06-07|Dr.Jess|Cancelled
+A004|P002|2024-06-28|Dr.Jess|Available
+A005|P004|2024-07-03|Dr.Murf|Cancelled

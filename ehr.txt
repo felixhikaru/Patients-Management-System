@@ -1,0 +1,5 @@
+P001|Kitty|A+|None|Hypertension,Seasonal Allergies|Appendectomy|2022-05-07
+P002|Fred|O-|Penicillin|Asthma,Migraines|Tonsillectomy|2022-12-10
+P003|Gussion|AB+|Shellfish|Type 2 Diabetes,High Cholesterol|Knee Surgery|2023-03-24
+P004|Lunox|B-|None|Rheumatoid Arthritis,Fibromyalgia|Hip Replacement|2023-06-05
+P005|Kagura|A-|Peanuts|Anxiety Disorder, Irritable Bowel Syndrome|None|2023-11-01
