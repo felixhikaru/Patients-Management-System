@@ -2,29 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Data Structures
-struct Patient {
-    int id;
-    char name[50];
-    char password[20];
-};
-
-struct Appointment {
-    int appointmentId;
-    int patientId;
-    char date[20];
-    char doctor[50];
-    char status[20];
-};
-
-struct Bill {
-    int billId;
-    int patientId;
-    char date[20];
-    double amount;
-    char description[100];
-};
-
 int loggedInPatientId = -1;
 
 // Function Declaration
@@ -32,7 +9,6 @@ void login() {
     char user[50];
     char password[20];
     char line[100];
-    struct Patient patient;
     int found = 0;
 
     printf("Enter your UserID: ");
@@ -95,8 +71,6 @@ void rescheduleAppointment(char*user) {
     char newDate[50];
     char line[255];
     char line1[100];
-    struct Appointment appointment;
-    struct Appointment appointments[100];
     int found1 = 0;
 
     FILE *file = fopen("appointments.txt", "r");
@@ -161,8 +135,6 @@ void cancelAppointment(char*user) {
     char cancel[50];
     char line[255];
     char line1[100];
-    struct Appointment appointment;
-    struct Appointment appointments[100];
     int found1 = 0;
 
     FILE *file = fopen("appointments.txt", "r");
